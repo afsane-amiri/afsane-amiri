@@ -1,20 +1,20 @@
 # Afsane Amiri, PhD
 
-**Operations Research & Data Scientist**
+### Operations Research & Data Scientist
 
-Optimization · Machine Learning · Forecasting · Decision Science
+I build **optimization and machine learning solutions** for complex operational decision-making, with experience across scheduling, resource allocation, transportation, forecasting, and revenue management.
 
-I build optimization and machine learning solutions for complex operational decision-making, with experience spanning scheduling, resource allocation, transportation, forecasting, and revenue management.
+My work combines **Operations Research, Machine Learning, and Industrial Engineering** to translate real-world problems into quantitative decision-support solutions.
 
-My background combines **Operations Research, Machine Learning, and Industrial Engineering**, with a focus on translating real-world business problems into data-driven decision-support solutions.
+📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/afsane-amiri/)
 
-## 🔬 Areas of Expertise
+## Technical Focus
 
-- **Optimization:** Mixed-Integer Linear Programming (MILP), Robust Optimization, Multi-Objective Optimization, Metaheuristics (TS, GA, SA, ALNS)
+- **Optimization:** MILP, Robust Optimization, Multi-Objective Optimization, Metaheuristics (ALNS, TS, GA, SA)
 - **Machine Learning:** Regression, Classification, Clustering, Forecasting, Feature Engineering, Model Evaluation
 - **Programming & Data:** Python, SQL, C++, pandas, NumPy, scikit-learn, PySpark
-- **Optimization Tools:** IBM CPLEX, Google OR-Tools
-- **Data & Cloud:** Databricks, MLflow, Azure
+- **Optimization:** IBM CPLEX, Google OR-Tools, GAMS
+- **Data Platforms:** Databricks, MLflow, Azure
 
 ## 🚀 Featured Projects
 
