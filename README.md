@@ -1,4 +1,4 @@
-# Afsane Amiri, PhD 👋
+# Afsane Amiri, PhD
 
 **Operations Research & Data Scientist**
 
