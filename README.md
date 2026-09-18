@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Afsane Amiri, PhD 👋
 
-<!--
-**afsane-amiri/afsane-amiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Operations Research & Data Scientist
 
-Here are some ideas to get you started:
+I build optimization and machine learning solutions for complex operational decision-making, with experience spanning scheduling, resource allocation, transportation, forecasting, and revenue management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines **Operations Research, Machine Learning, and Industrial Engineering**, with a focus on translating real-world business problems into data-driven decision-support solutions.
+
+## 🔬 Areas of Expertise
+
+- **Optimization:** Mixed-Integer Linear Programming (MILP), Robust Optimization, Multi-Objective Optimization, Metaheuristics (TS, GA, SA, ALNS)
+- **Machine Learning:** Regression, Classification, Clustering, Forecasting, Feature Engineering, Model Evaluation
+- **Programming & Data:** Python, SQL, C++, pandas, NumPy, scikit-learn, PySpark
+- **Optimization Tools:** IBM CPLEX, Google OR-Tools
+- **Data & Cloud:** Databricks, MLflow, Azure
+
+## 🚀 Featured Projects
+
+### 🌪️ Storm Claims Adjuster Optimization
+Decision-support model for allocating claims adjusters following severe storm events using mathematical optimization.
+
+**Methods:** MILP · Resource Allocation · Scenario Analysis · Python · CPLEX
+
+### 📈 Retail Demand Forecasting
+End-to-end forecasting project for retail demand prediction, including data preparation, feature engineering, model development, and evaluation.
+
+**Methods:** Time Series · Machine Learning · Feature Engineering · Python
+
+### 🌍 UN Voting Patterns — Machine Learning
+Machine learning analysis of UN General Assembly voting patterns using unsupervised learning and dimensionality reduction, with supervised modelling for Security Council voting.
+
+**Methods:** K-Means · Hierarchical Clustering · DBSCAN · PCA · Classification
+
+### 🚚 Green Vehicle Routing & Fleet Optimization
+Research implementation of multi-objective optimization algorithms for routing a mixed fleet of conventional and alternative-fuel vehicles.
+
+**Methods:** MILP · Multi-Objective Optimization · Metaheuristics · C++
+
+## 🎓 Background
+
+PhD in Mechanical & Industrial Engineering with research focused on operations research, transportation optimization, sustainable logistics, and decision-making under uncertainty.
+
+I enjoy working at the intersection of **optimization, machine learning, and real-world operational decision-making**.
